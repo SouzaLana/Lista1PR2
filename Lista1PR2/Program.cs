@@ -196,7 +196,7 @@ namespace Lista1PR2
             //string pss;
             //float peso, alt;
 
-            //Console.WriteLine("Digite 1 se é homem ou 2 se é mulher: ");
+            //Console.WriteLine("Digite se é homem ou se é mulher: ");
             //pss = (Console.ReadLine());
             //Console.WriteLine("Digite a altura: ");
             //alt = float.Parse(Console.ReadLine());
@@ -216,7 +216,7 @@ namespace Lista1PR2
 
             //Ativ. 13
 
-            //O GIT é um sistema de controle de versão que ser serve para controlar o histórico de alterações de arquivos e, principalmente, de projetos de desenvolvimento de software.
+            //O GIT é um sistema de controle de versão que serve para controlar o histórico de alterações de arquivos e, principalmente, de projetos de desenvolvimento de software.
             //O GITHUB é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o GIT.
 
             //Comandos do GIT:
@@ -230,7 +230,8 @@ namespace Lista1PR2
             //git commit - salva as alterações no espaço de trabalho local;
             //git reverse - para desfazer nosso commits;
             //git merge - integra sua branch na branch de desenvolvimento ou na branch principal;
-            //git checkout - para trocar de uma branch para outra e para fazer o checkout de arquivos e commits.
+            //git checkout - para trocar de uma branch para outra e para fazer o checkout de arquivos e commits.   
+
         }
     }
 }
